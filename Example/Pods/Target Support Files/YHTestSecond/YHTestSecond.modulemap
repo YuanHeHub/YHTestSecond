@@ -1,0 +1,6 @@
+framework module YHTestSecond {
+  umbrella header "YHTestSecond-umbrella.h"
+
+  export *
+  module * { export * }
+}
